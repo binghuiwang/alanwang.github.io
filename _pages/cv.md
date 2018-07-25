@@ -11,30 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.E. in Network Engineering, School of Software, Dalian University of Technology (DUT), China, 2012
+* M.S. in Software Engineering, School of Software, Dalian University of Technology (DUT), China, 2015
+* Ph.D. Candidate, Department of Electrical and Computer Engineering, Iowa State University (ISU), United States, 2019(expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Visiting Student, Department of Neurorehabilitation Engineering, Georg-August-University Goettingen, Germany. Apr. 2014—Oct. 2014 
+  
+* Research Assistant, 2016
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Assistant, 2017
+
+* Research Assistant, 2018
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * C/C++/C\#
+  * Matlab
+  * Python
+
+* Tools
+  * VS
+  * Qt
+  * LaTex
+
+* Toolkits
+  * Scikit-Learn
+  * Theano
+  * Keras
+  * Tensorflow
 
 Publications
 ======
