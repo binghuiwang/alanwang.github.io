@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Binghui (Alan) Wang"
+title                    : "Alanwang"
 title_separator          : "-"
 name                     : &name "Alanwang"
-description              : &description "PhD Candicate at Iowa State University, United States"
+description              : &description "PhD Candidate, Iowa State University, United States"
 url                      : https://binghuiwang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "binghuiwang.github.io"
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alanwang"
+  name             : "Binghui (Alan) Wang"
   avatar           : "profile.png"
-  bio              : "ECE Department, ISU"
+  bio              : "PhD Candidate, ECE Department, Iowa State University, United States"
   location         : "Iowa"
-  employer         :
+  employer         : 
   googlescholar    : "http://scholar.google.com/binghui"
-  email            :
+  email            : "binghuiw@iastate.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "binghuiwang"
+  github           : "https://github.com/binghuiwang"
   google_plus      :
   keybase          :
   instagram        :
@@ -106,7 +106,7 @@ author:
   tumblr           :
   twitter          : "replacethistwitterhandle"
   vine             :
-  weibo            : "https://www.weibo.com/wbhiverson/home?wvr=5&lf=reg"
+  weibo            : "http://weibo.com/wbhiverson"
   xing             :
   youtube          :
   wikipedia        :
